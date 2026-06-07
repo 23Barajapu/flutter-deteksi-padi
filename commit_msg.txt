@@ -1,0 +1,7 @@
+feat(ui): perbarui antarmuka menjadi lebih elegan
+
+- Ubah background menjadi kamera layar penuh
+- Tambah bottom sheet membulat untuk area hasil
+- Perbaiki aspek rasio pratinjau kamera
+- Tambah efek gradien transparan pada judul
+- Tingkatkan desain tombol dan kartu deteksi
